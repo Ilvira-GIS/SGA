@@ -1,0 +1,1 @@
+This project demonstrates a question-answering system using the BoolQ dataset and the DistilBERT model. The task involves predicting "Yes" or "No" answers based on a question and passage pair. The project integrates WandB for experiment tracking.
